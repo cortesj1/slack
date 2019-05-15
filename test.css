@@ -834,13 +834,13 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .day_container .day_divider .day_divider_label { background: #222; }
 
-.search_form { border-color: #79092B; }
+.search_form { border-color: #551127; }
 
 .search_form .search_input { background: transparent; }
 
-.search_form:hover { border-color: #828282; }
+.search_form:hover { border-color: #79092B; }
 
-.search_focused .search_form { border-color: #828282; }
+.search_focused .search_form { border-color: #79092B; }
 
 .search_clear_icon .ts_icon_times_circle { color: #949494; }
 
